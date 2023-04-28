@@ -1,0 +1,31 @@
+body{
+    background-image: url(bg.3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    align-items: center;
+    align-content: center;
+}
+
+img {
+    margin-left: 40%;
+    margin-top: 10%;
+    margin-right: auto;
+    border: 5px solid rgb(195, 210, 215);
+}
+h1,h4{ text-align: center;
+    color: aliceblue;
+    border: solid 1px #f52916;
+    
+    
+}
+svg{
+    color: #ff0099;
+ 
+}
+#firstpera{
+    color:#33a7ff;
+}
+
+
