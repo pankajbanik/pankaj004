@@ -1,22 +1,38 @@
-body{
-    background-image: url(bg.3.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
+body{background-image: url(light\ wallaper.jpeg);
+      
+      
+    padding: 0%;
+    background-position:content;
+    background-repeat: repeat-y;
+    background-repeat: ;
+    background-size: 96%;
+
+
 }
+
+
+
+
+
 img{
     align-items: center;
     align-content: center;
 }
 
 img {
+    padding: 0%;
     margin-left: 40%;
-    margin-top: 10%;
+    margin-top: 02%;
     margin-right: auto;
-    border: 5px solid rgb(195, 210, 215);
+    border: 5px solid lightcyan;
 }
-h1,h4{ text-align: center;
+h1,h2,h3,h4{ text-align: center;
     color: aliceblue;
-    border: solid 1px #f52916;
+    border: solid 2px white;
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+    animation-duration:4s ;
+    animation-delay: -2s;
+
     
     
 }
@@ -27,5 +43,20 @@ svg{
 #firstpera{
     color:#33a7ff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
